@@ -18,7 +18,7 @@ A Java-based desktop application designed to manage daily operations of a jewell
 ##  Tech Stack
 
 - **Language:** Java (Core Java / Swing)
-- **IDE:** Eclipse / IntelliJ IDEA
+- **IDE:** netbeans
 - **Database:** MySQL
 - **JDBC:** For database connectivity
 
